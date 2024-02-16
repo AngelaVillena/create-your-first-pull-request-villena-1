@@ -1,3 +1,5 @@
 Expectation/s:
 I hope CMSC100 will be a fun course to learn.
 I also hope to acquire new skills.
+
+Edit by Armie: I am also hoping that this course will be fun
